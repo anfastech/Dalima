@@ -1,1 +1,2 @@
-dalima app ai tool
+## Dalima
+#### AI Application, to reduce Delima
